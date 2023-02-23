@@ -6,3 +6,6 @@ phone = 7204359199
 
 height = 5.2
 balance = 123.45
+
+has_paid = yes
+original_nose = false
